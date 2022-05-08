@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CosmosDbSQL": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "PrimaryKey": "<Your_Azure_Cosmos_account_URI>",
+        "EndpointUrl": "<Your_Azure_Cosmos_account_PRIMARY_KEY>"
+      }
+    }
+  }
+}
